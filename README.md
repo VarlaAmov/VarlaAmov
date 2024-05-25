@@ -7,10 +7,6 @@
 <!--Start Intro-->               
 <p align="left">I am passionate about automating infrastructure, continuous integration/continuous deployment, and improving system reliability. </p>
 
----
-<br />
-<br />
-<br />
 
 ---
 <div align="center">
