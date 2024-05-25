@@ -12,11 +12,9 @@
 <div align="center">
   <h2>My Stack</h2> 
   <p>
-    <img width="500px" src="https://skillicons.dev/icons?i=md,bash,ansible,git,docker,linux,gitlab,&perline=10" />
+    <img width="500px" src="https://skillicons.dev/icons?i=md,bash,ansible,git,docker,linux,gitlab,,grafana,prometheus&perline=10" />
   </p>
-  <br />
-  <br />
-  <br />
+
 
 ---
   <h2>🤝 Contact me 🤝</h2>
