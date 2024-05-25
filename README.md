@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, everybody 
+<!--Header Name-->
+# 💀 ɪ'ᴍ Eugen! 
+*DevOps Engineer*
+<br /> 
 
-<!--
-**VarlaAmov/VarlaAmov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Start Intro-->               
+<p align="left">I am passionate about automating infrastructure, continuous integration/continuous deployment, and improving system reliability. </p>
 
-Here are some ideas to get you started:
+---
+<br />
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<div align="center">
+  <h2>My Stack</h2> 
+  <p>
+    <img width="500px" src="https://skillicons.dev/icons?i=md,bash,ansible,git,docker,linux,gitlab,&perline=10" />
+  </p>
+  <br />
+  <br />
+  <br />
+
+---
+  <h2>🤝 Contact me 🤝</h2>
+  <a href="https://t.me/Eugenevarl" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="margin-bottom: 5px;" />
+  </a>
+</div>
+
+<!--Footer-->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</div>
+
+
+
+
